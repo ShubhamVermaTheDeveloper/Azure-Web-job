@@ -1,4 +1,5 @@
 C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\bin\Debug\net6.0\WebJobContinoueDemo.exe
+C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\bin\Debug\net6.0\Settings.job
 C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\bin\Debug\net6.0\WebJobContinoueDemo.deps.json
 C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\bin\Debug\net6.0\WebJobContinoueDemo.runtimeconfig.json
 C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\bin\Debug\net6.0\WebJobContinoueDemo.dll
@@ -12,4 +13,3 @@ C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\ob
 C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\obj\Debug\net6.0\WebJobContinoueDemo.pdb
 C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\obj\Debug\net6.0\WebJobContinoueDemo.genruntimeconfig.cache
 C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\obj\Debug\net6.0\ref\WebJobContinoueDemo.dll
-C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\bin\Debug\net6.0\Settings.job
