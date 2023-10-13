@@ -1,0 +1,15 @@
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredManual\WebJobTriggeredManual\bin\Debug\net6.0\WebJobTriggeredManual.exe
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredManual\WebJobTriggeredManual\bin\Debug\net6.0\WebJobTriggeredManual.deps.json
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredManual\WebJobTriggeredManual\bin\Debug\net6.0\WebJobTriggeredManual.runtimeconfig.json
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredManual\WebJobTriggeredManual\bin\Debug\net6.0\WebJobTriggeredManual.dll
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredManual\WebJobTriggeredManual\bin\Debug\net6.0\WebJobTriggeredManual.pdb
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredManual\WebJobTriggeredManual\obj\Debug\net6.0\WebJobTriggeredManual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredManual\WebJobTriggeredManual\obj\Debug\net6.0\WebJobTriggeredManual.AssemblyInfoInputs.cache
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredManual\WebJobTriggeredManual\obj\Debug\net6.0\WebJobTriggeredManual.AssemblyInfo.cs
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredManual\WebJobTriggeredManual\obj\Debug\net6.0\WebJobTriggeredManual.csproj.CoreCompileInputs.cache
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredManual\WebJobTriggeredManual\obj\Debug\net6.0\WebJobTriggeredManual.dll
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredManual\WebJobTriggeredManual\obj\Debug\net6.0\refint\WebJobTriggeredManual.dll
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredManual\WebJobTriggeredManual\obj\Debug\net6.0\WebJobTriggeredManual.pdb
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredManual\WebJobTriggeredManual\obj\Debug\net6.0\WebJobTriggeredManual.genruntimeconfig.cache
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredManual\WebJobTriggeredManual\obj\Debug\net6.0\ref\WebJobTriggeredManual.dll
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredManual\WebJobTriggeredManual\bin\Debug\net6.0\Settings.job

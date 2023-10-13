@@ -1,0 +1,15 @@
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredSchedule\WebJobTriggeredSchedule\bin\Debug\net6.0\WebJobTriggeredSchedule.exe
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredSchedule\WebJobTriggeredSchedule\bin\Debug\net6.0\WebJobTriggeredSchedule.deps.json
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredSchedule\WebJobTriggeredSchedule\bin\Debug\net6.0\WebJobTriggeredSchedule.runtimeconfig.json
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredSchedule\WebJobTriggeredSchedule\bin\Debug\net6.0\WebJobTriggeredSchedule.dll
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredSchedule\WebJobTriggeredSchedule\bin\Debug\net6.0\WebJobTriggeredSchedule.pdb
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredSchedule\WebJobTriggeredSchedule\obj\Debug\net6.0\WebJobTriggeredSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredSchedule\WebJobTriggeredSchedule\obj\Debug\net6.0\WebJobTriggeredSchedule.AssemblyInfoInputs.cache
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredSchedule\WebJobTriggeredSchedule\obj\Debug\net6.0\WebJobTriggeredSchedule.AssemblyInfo.cs
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredSchedule\WebJobTriggeredSchedule\obj\Debug\net6.0\WebJobTriggeredSchedule.csproj.CoreCompileInputs.cache
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredSchedule\WebJobTriggeredSchedule\obj\Debug\net6.0\WebJobTriggeredSchedule.dll
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredSchedule\WebJobTriggeredSchedule\obj\Debug\net6.0\refint\WebJobTriggeredSchedule.dll
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredSchedule\WebJobTriggeredSchedule\obj\Debug\net6.0\WebJobTriggeredSchedule.pdb
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredSchedule\WebJobTriggeredSchedule\obj\Debug\net6.0\WebJobTriggeredSchedule.genruntimeconfig.cache
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredSchedule\WebJobTriggeredSchedule\obj\Debug\net6.0\ref\WebJobTriggeredSchedule.dll
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredSchedule\WebJobTriggeredSchedule\bin\Debug\net6.0\Settings.job

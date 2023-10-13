@@ -1,0 +1,7 @@
+C:\Github\Azure Storage\Web Jobs\WebJobMVC\WebJobMVC\obj\Release\net6.0\PubTmp\Out\WebJobMVC.exe
+C:\Github\Azure Storage\Web Jobs\WebJobMVC\WebJobMVC\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Github\Azure Storage\Web Jobs\WebJobMVC\WebJobMVC\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Github\Azure Storage\Web Jobs\WebJobMVC\WebJobMVC\obj\Release\net6.0\PubTmp\Out\WebJobMVC.dll
+C:\Github\Azure Storage\Web Jobs\WebJobMVC\WebJobMVC\obj\Release\net6.0\PubTmp\Out\WebJobMVC.deps.json
+C:\Github\Azure Storage\Web Jobs\WebJobMVC\WebJobMVC\obj\Release\net6.0\PubTmp\Out\WebJobMVC.runtimeconfig.json
+C:\Github\Azure Storage\Web Jobs\WebJobMVC\WebJobMVC\obj\Release\net6.0\PubTmp\Out\WebJobMVC.pdb

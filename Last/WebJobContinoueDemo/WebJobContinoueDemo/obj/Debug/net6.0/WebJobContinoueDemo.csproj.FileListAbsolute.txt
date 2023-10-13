@@ -1,0 +1,15 @@
+C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\bin\Debug\net6.0\WebJobContinoueDemo.exe
+C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\bin\Debug\net6.0\WebJobContinoueDemo.deps.json
+C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\bin\Debug\net6.0\WebJobContinoueDemo.runtimeconfig.json
+C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\bin\Debug\net6.0\WebJobContinoueDemo.dll
+C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\bin\Debug\net6.0\WebJobContinoueDemo.pdb
+C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\obj\Debug\net6.0\WebJobContinoueDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\obj\Debug\net6.0\WebJobContinoueDemo.AssemblyInfoInputs.cache
+C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\obj\Debug\net6.0\WebJobContinoueDemo.AssemblyInfo.cs
+C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\obj\Debug\net6.0\WebJobContinoueDemo.csproj.CoreCompileInputs.cache
+C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\obj\Debug\net6.0\WebJobContinoueDemo.dll
+C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\obj\Debug\net6.0\refint\WebJobContinoueDemo.dll
+C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\obj\Debug\net6.0\WebJobContinoueDemo.pdb
+C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\obj\Debug\net6.0\WebJobContinoueDemo.genruntimeconfig.cache
+C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\obj\Debug\net6.0\ref\WebJobContinoueDemo.dll
+C:\Github\Azure Storage\Web Jobs\Last\WebJobContinoueDemo\WebJobContinoueDemo\bin\Debug\net6.0\Settings.job

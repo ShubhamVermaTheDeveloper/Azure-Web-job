@@ -1,0 +1,6 @@
+C:\Github\Azure Storage\Web Jobs\WebJobAppDemo2\WebJobAppDemo2\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Continuous\WebJobAppDemo2\Settings.job
+C:\Github\Azure Storage\Web Jobs\WebJobAppDemo2\WebJobAppDemo2\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Continuous\WebJobAppDemo2\WebJobAppDemo2.exe
+C:\Github\Azure Storage\Web Jobs\WebJobAppDemo2\WebJobAppDemo2\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Continuous\WebJobAppDemo2\WebJobAppDemo2.dll
+C:\Github\Azure Storage\Web Jobs\WebJobAppDemo2\WebJobAppDemo2\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Continuous\WebJobAppDemo2\WebJobAppDemo2.deps.json
+C:\Github\Azure Storage\Web Jobs\WebJobAppDemo2\WebJobAppDemo2\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Continuous\WebJobAppDemo2\WebJobAppDemo2.runtimeconfig.json
+C:\Github\Azure Storage\Web Jobs\WebJobAppDemo2\WebJobAppDemo2\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Continuous\WebJobAppDemo2\WebJobAppDemo2.pdb

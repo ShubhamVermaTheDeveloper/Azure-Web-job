@@ -1,0 +1,6 @@
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredManual\WebJobTriggeredManual\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\WebJobTriggeredManual\Settings.job
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredManual\WebJobTriggeredManual\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\WebJobTriggeredManual\WebJobTriggeredManual.exe
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredManual\WebJobTriggeredManual\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\WebJobTriggeredManual\WebJobTriggeredManual.dll
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredManual\WebJobTriggeredManual\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\WebJobTriggeredManual\WebJobTriggeredManual.deps.json
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredManual\WebJobTriggeredManual\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\WebJobTriggeredManual\WebJobTriggeredManual.runtimeconfig.json
+C:\Github\Azure Storage\Web Jobs\Last\WebJobTriggeredManual\WebJobTriggeredManual\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\WebJobTriggeredManual\WebJobTriggeredManual.pdb
