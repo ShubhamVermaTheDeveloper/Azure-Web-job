@@ -1,0 +1,15 @@
+C:\Github\Azure Storage\Web Jobs\WebJobAppDemo2\WebJobAppDemo2\bin\Release\net6.0\WebJobAppDemo2.exe
+C:\Github\Azure Storage\Web Jobs\WebJobAppDemo2\WebJobAppDemo2\bin\Release\net6.0\Settings.job
+C:\Github\Azure Storage\Web Jobs\WebJobAppDemo2\WebJobAppDemo2\bin\Release\net6.0\WebJobAppDemo2.deps.json
+C:\Github\Azure Storage\Web Jobs\WebJobAppDemo2\WebJobAppDemo2\bin\Release\net6.0\WebJobAppDemo2.runtimeconfig.json
+C:\Github\Azure Storage\Web Jobs\WebJobAppDemo2\WebJobAppDemo2\bin\Release\net6.0\WebJobAppDemo2.dll
+C:\Github\Azure Storage\Web Jobs\WebJobAppDemo2\WebJobAppDemo2\bin\Release\net6.0\WebJobAppDemo2.pdb
+C:\Github\Azure Storage\Web Jobs\WebJobAppDemo2\WebJobAppDemo2\obj\Release\net6.0\WebJobAppDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Azure Storage\Web Jobs\WebJobAppDemo2\WebJobAppDemo2\obj\Release\net6.0\WebJobAppDemo2.AssemblyInfoInputs.cache
+C:\Github\Azure Storage\Web Jobs\WebJobAppDemo2\WebJobAppDemo2\obj\Release\net6.0\WebJobAppDemo2.AssemblyInfo.cs
+C:\Github\Azure Storage\Web Jobs\WebJobAppDemo2\WebJobAppDemo2\obj\Release\net6.0\WebJobAppDemo2.csproj.CoreCompileInputs.cache
+C:\Github\Azure Storage\Web Jobs\WebJobAppDemo2\WebJobAppDemo2\obj\Release\net6.0\WebJobAppDemo2.dll
+C:\Github\Azure Storage\Web Jobs\WebJobAppDemo2\WebJobAppDemo2\obj\Release\net6.0\refint\WebJobAppDemo2.dll
+C:\Github\Azure Storage\Web Jobs\WebJobAppDemo2\WebJobAppDemo2\obj\Release\net6.0\WebJobAppDemo2.pdb
+C:\Github\Azure Storage\Web Jobs\WebJobAppDemo2\WebJobAppDemo2\obj\Release\net6.0\WebJobAppDemo2.genruntimeconfig.cache
+C:\Github\Azure Storage\Web Jobs\WebJobAppDemo2\WebJobAppDemo2\obj\Release\net6.0\ref\WebJobAppDemo2.dll

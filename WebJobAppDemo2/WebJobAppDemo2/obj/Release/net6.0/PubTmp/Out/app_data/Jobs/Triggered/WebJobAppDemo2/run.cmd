@@ -1,0 +1,1 @@
+dotnet WebJobAppDemo2.dll %*
